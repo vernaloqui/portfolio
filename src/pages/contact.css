@@ -1,0 +1,25 @@
+input {
+    width: 100%;
+    padding: 15px;
+    margin:4px;
+    box-sizing: border-box;
+    padding-left:60px;
+    height: 40px;
+   }
+   
+   .Icon-inside {
+    position:relative;
+   }
+   
+   .Icon-inside i {
+    position:absolute;
+    left:0;
+    top:20px;
+    font-size:30px;
+    padding:10px 10px;
+    color:#BE95CF;
+   }
+   textarea{
+    resize: none;
+    overflow: hidden;
+   }
